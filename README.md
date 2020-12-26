@@ -4,8 +4,8 @@
 
 ## languages and tools
 
-![javascript](https://img.shields.io/badge/javascript-9cf?style=for-the-badge&logo=javascript)
-![node](https://img.shields.io/badge/node-9cf?style=for-the-badge&logo=node)
-![HTML](https://img.shields.io/badge/HTML-9cf?style=for-the-badge&logo=HTML)
-![React](https://img.shields.io/badge/react-9cf?style=for-the-badge&logo=React)
-![css](https://img.shields.io/badge/css-orange?style=for-the-badge&logo=css)
+![javascript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
+![node](https://img.shields.io/badge/Node-090909?style=for-the-badge&logo=Node)
+![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML)
+![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=React)
+![css](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
