@@ -1,7 +1,3 @@
-### Hi there 👋
-
-## statistics
-
 ## languages and tools
 
 ![javascript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
@@ -9,6 +5,8 @@
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML)
 ![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=React)
 ![css](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
+
+## statistics
 
 ![IgorVerchyks github stats](https://github-readme-stats.vercel.app/api?username=IgorVerchyk&show_icons=true&theme=radical)
 
